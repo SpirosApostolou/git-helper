@@ -1,0 +1,23 @@
+ 
+BUILD UNSTABLE
+Build URL	https://10.215.48.10/job/Test%20-%20PSRM%20SDK%20-%20Integration%20Tests/565/
+
+Project:	Test - PSRM SDK - Integration Tests
+Date of build:	Wed, 02 May 2018 12:09:04 +0200
+Build duration:	20 min
+
+CHANGES
+No Changes
+
+JUnit Tests
+Name: com.splwg.cm.test.runnables.domain.converted.claims Failed: 4 test(s), Passed: 11 test(s), Skipped: 0 test(s), Total: 15 test(s)
+•  Failed: com.splwg.cm.test.runnables.domain.converted.claims.ConvertedClaimActionsTest.testActionsAfterConversionYear
+•  Failed: com.splwg.cm.test.runnables.domain.converted.claims.ConvertedClaimActionsTest.testActionsAfterConversionYearRelatedClaim
+•  Failed: com.splwg.cm.test.runnables.domain.converted.claims.ConvertedClaimActionsTest.testActionsInConversionYear
+•  Failed: com.splwg.cm.test.runnables.domain.converted.claims.ConvertedClaimActionsTest.testActionsInConversionYearRelatedClaim
+
+A test failure has occurred in Test - PSRM SDK - Integration Tests. 
+
+You can see the test report at https://10.215.48.10/job/Test%20-%20PSRM%20SDK%20-%20Integration%20Tests/565/. 
+------------------------------------------------------------------------------------------------------------------------------------------------------------ 
+You received this mail because you initiated the build or made a commit to ici-psrm when a test began to fail. Best regards, Josk.
