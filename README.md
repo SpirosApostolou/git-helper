@@ -1,0 +1,1 @@
+This is a java app that sends notification mails containing details with automation tests.
